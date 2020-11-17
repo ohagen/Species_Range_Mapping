@@ -1,7 +1,7 @@
 # Species Range Mapping
 R-scripts to generate species range from occurance data.
 
-**Author**: Oskar Hagen (oskar@hagen.bio)
+**Author**: Oskar Hagen (oskar@hagen.bio),
 for range map function: Oskar Hagen, Fabian Fopp and Camille Albouy
 
 **Description**: In a simplified way, the four main process from data to species ranges are: 
